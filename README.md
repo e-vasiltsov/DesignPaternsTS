@@ -21,6 +21,8 @@ $ yarn test
 ### [Structural/](structural)
 
 * [Adapter](structural/adapter) [:book:](http://en.wikipedia.org/wiki/Adapter_pattern)
+    - [Test adapter](tests/adapter.spec.ts) :hammer:
 * [Bridge](structural/bridge) [:book:](http://en.wikipedia.org/wiki/Bridge_pattern)
+    - [Test bridge](tests/bridge.spec.ts) :hammer:
 
 
