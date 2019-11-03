@@ -20,6 +20,7 @@ $ yarn test
 
 ### [Structural/](structural)
 
+* [Adapter](structural/adapter) [:book:](http://en.wikipedia.org/wiki/Adapter_pattern)
 * [Bridge](structural/bridge) [:book:](http://en.wikipedia.org/wiki/Bridge_pattern)
 
 
