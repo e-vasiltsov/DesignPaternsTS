@@ -6,3 +6,4 @@ entities.
 
 * [Adapter](adapter) [:book:](http://en.wikipedia.org/wiki/Adapter_pattern)
 * [Bridge](bridge) [:book:](http://en.wikipedia.org/wiki/Bridge_pattern)
+* [Composite](composite) [:book:](http://en.wikipedia.org/wiki/Composite_pattern)

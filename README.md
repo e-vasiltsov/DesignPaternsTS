@@ -24,5 +24,7 @@ $ yarn test
     - [Test adapter](tests/adapter.spec.ts) :hammer:
 * [Bridge](structural/bridge) [:book:](http://en.wikipedia.org/wiki/Bridge_pattern)
     - [Test bridge](tests/bridge.spec.ts) :hammer:
+* [Composite](structural/composite) [:book:](http://en.wikipedia.org/wiki/Composite_pattern)
+    - [Test composite](tests/composite.spec.ts) :hammer:
 
 
