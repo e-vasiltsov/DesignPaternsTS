@@ -26,5 +26,8 @@ $ yarn test
     - [Test bridge](tests/bridge.spec.ts) :hammer:
 * [Composite](structural/composite) [:book:](http://en.wikipedia.org/wiki/Composite_pattern)
     - [Test composite](tests/composite.spec.ts) :hammer:
+* [Decorator](structural/decorator) [:book:](http://en.wikipedia.org/wiki/Decorator_pattern)
+    - [Test composite](tests/decorator.spec.ts) :hammer:
+
 
 
