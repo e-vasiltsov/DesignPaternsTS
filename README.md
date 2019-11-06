@@ -28,6 +28,8 @@ $ yarn test
     - [Test composite](tests/composite.spec.ts) :hammer:
 * [Decorator](structural/decorator) [:book:](http://en.wikipedia.org/wiki/Decorator_pattern)
     - [Test composite](tests/decorator.spec.ts) :hammer:
+* [Facade](structural/facade) [:book:](http://en.wikipedia.org/wiki/Facade_pattern)
+    - [Test facade](tests/facade.spec.ts) :hammer:
 
 
 
