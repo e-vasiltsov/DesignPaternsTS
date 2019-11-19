@@ -18,6 +18,11 @@ To run the tests run command:
 $ yarn test
 ```
 
+### [Creational/](creational)
+
+* [Abstract Factory](creational/abstractFactory) [:book:](http://en.wikipedia.org/wiki/AbstractFactory_pattern)
+    - [Test Abstract Factory](tests/abstractFactory.spec.ts) :hammer:
+
 ### [Structural/](structural)
 
 * [Adapter](structural/adapter) [:book:](http://en.wikipedia.org/wiki/Adapter_pattern)
