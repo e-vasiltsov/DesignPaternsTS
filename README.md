@@ -22,7 +22,15 @@ $ yarn test
 
 * [Abstract Factory](creational/abstractFactory) [:book:](http://en.wikipedia.org/wiki/AbstractFactory_pattern)
     - [Test Abstract Factory](tests/abstractFactory.spec.ts) :hammer:
-
+* [Builder](creational/builder) [:book:](http://en.wikipedia.org/wiki/Builder_pattern)
+    - [Test Builder](tests/builder.spec.ts) :hammer:
+* [Factory method](creational/factorymethod) [:book:](http://en.wikipedia.org/wiki/FactoryMethod_pattern)
+    - [Test Factory method](tests/factoryMethod.spec.ts) :hammer:
+* [Prototype](creational/prototype) [:book:](http://en.wikipedia.org/wiki/Prototype_pattern)
+    - [Test Prototype](tests/prototype.spec.ts) :hammer:
+* [Singleton](creational/singleton) [:book:](http://en.wikipedia.org/wiki/Singleton_pattern)
+    - [Test Singleton](tests/singleton.spec.ts) :hammer:
+    
 ### [Structural/](structural)
 
 * [Adapter](structural/adapter) [:book:](http://en.wikipedia.org/wiki/Adapter_pattern)
